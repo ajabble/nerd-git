@@ -1,4 +1,4 @@
-define sum (int a, int b)
-return a+b;
-define subtract (int a, int b)
-return a-b;
+define sum (int c, int d)
+return c+d;
+define subtract (int e, int f)
+return e-f;
