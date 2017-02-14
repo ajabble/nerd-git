@@ -1,0 +1,11 @@
+define void factorial(int n)
+int fact =1;
+for(i=i;i<=n;i++)
+fact = fact*i;
+printf("%d",fact);
+
+define evenOdd(int num)
+if(num%2 == 0)
+printf("number is even");
+else
+printf("number is odd");
